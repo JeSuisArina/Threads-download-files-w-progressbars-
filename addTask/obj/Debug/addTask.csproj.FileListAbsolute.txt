@@ -1,0 +1,9 @@
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\bin\Debug\addTask.exe.config
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\bin\Debug\addTask.exe
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\bin\Debug\addTask.pdb
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\obj\Debug\addTask.csprojResolveAssemblyReference.cache
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\obj\Debug\addTask.Form1.resources
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\obj\Debug\addTask.Properties.Resources.resources
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\obj\Debug\addTask.csproj.GenerateResource.Cache
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\obj\Debug\addTask.exe
+C:\Users\Котя\Documents\Visual Studio 2017\Projects\addTask\addTask\obj\Debug\addTask.pdb
